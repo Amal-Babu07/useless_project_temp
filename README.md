@@ -72,8 +72,12 @@ Because friendship deserves financial analysis. 😎
 ### For Software:
 
 ### Installation
+## Project Demo
 
-Clone the repository:
+### Live Demo
+https://idyllic-semolina-2d9491.netlify.app
+
+
 
 ```bash
  git https://github.com/Amal-Babu07/useless_project_temp.git
