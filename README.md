@@ -2,100 +2,81 @@
 
 
 
-# [Project Name] 🎯
+# FriendScore™ 🎯💳
 
+> **Trust is temporary. Credit score is forever.**
 
 ## Basic Details
-### Team Name: [Name]
 
+### Team Name: BURMA KUDUMBA UNIT 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Amal Babu - ICCS College of Engineering and Management, Thrissur
+- Member 1: Abijith B - ICCS College of Engineering and Management, Thrissur
 
 ### Project Description
-[2-3 lines about what your project does]
+
+FriendScore™ is a completely unnecessary but highly important Friendship Credit Scoring System. It evaluates your friends based on their money habits, reply speed, plan reliability, food loyalty, trustworthiness, helpfulness, birthday memory and their legendary "5 minutes" accuracy.
+
+The system generates a friendship score from **0–900**, assigns a friendship risk rating, provides a hilarious loan decision, and adds the friend to a leaderboard.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
+Have you ever wondered:
+
+- Can I trust my friend with ₹500?
+- Why does "I'm coming in 5 minutes" mean 45 minutes?
+- Will my friend actually return the money?
+- Is this friend a Premium Friend or a Friendship Liability?
+- Should I lend them money again?
+
+Traditional credit scores don't answer these extremely important questions.
+
+**FriendScore™ solves a problem that absolutely nobody asked us to solve.**
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
 
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+FriendScore™ turns friendship into finance.
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Users rate their friends across multiple friendship behaviors. The system calculates a score between **0 and 900**, determines the friend's friendship rating and risk level, calculates their borrowing/repayment statistics, and even provides a humorous loan approval decision.
 
-### Implementation
-For Software:
-# Installation
-[commands]
+After calculating the score, the system automatically generates a fictional **Malayalam movie-style roast** for the friend.
 
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Because friendship deserves financial analysis. 😎
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
+## Technical Details
+
+### Technologies/Components Used
+
+### For Software:
+
+- **Languages:** TypeScript, JavaScript, HTML, CSS
+- **Framework:** React
+- **Build Tool:** Vite
+- **Styling:** CSS
+- **Storage:** Browser LocalStorage
+- **Development Tool:** Visual Studio Code
+- **Version Control:** Git & GitHub
+- **Deployment:** Netlify
+
+### For Hardware:
+
+- No hardware components required.
+
+---
+
+## Implementation
+
+### For Software:
+
+### Installation
+
+Clone the repository:
+
+```bash
+ git https://github.com/Amal-Babu07/useless_project_temp.git
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
 
